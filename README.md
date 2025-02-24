@@ -331,6 +331,7 @@ To restart `microk8s`
 
 ```
 $ microk8s start
+```
 
 
 The components of  `microk8s` is running as a service. For instance, to see if 
